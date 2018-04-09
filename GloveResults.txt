@@ -1,0 +1,19 @@
+Precision for event detection (span): 0.813061506565
+Recall for event detection (span): 0.904590818363
+F1 score for event detection (span): 0.856387480667
+Precision for event detection (span+type): 0.646855563234
+Recall for event detection (span+type): 0.733333333333
+F1 score for event detection (span+type): 0.687385252195
+MUC-Precision for event coreference: 0.196376388077
+MUC-Recall for event coreference: 0.293706293706
+MUC-F1 for event coreference: 0.235376532399
+B3-Precision for event coreference: 0.727635653525
+B3-Recall for event coreference: 0.812682088066
+B3-F1 for event coreference: 0.767811012353
+BLANC-Precision for event coreference: 0.511038916994
+BLANC-Recall for event coreference: 0.508578552265
+BLANC-F1 for event coreference: 0.50956863179
+Entity-based CEAF-Precision for event coreference: 0.524466767511
+Entity-based CEAF-Recall for event coreference: 0.305971060546
+Entity-based CEAF for event coreference: 0.386474815224
+
